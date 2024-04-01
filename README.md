@@ -5,7 +5,7 @@
 
 <!-- container: cds and dvds need to be used in some computer and that system is called container -->
 
-# docker pull
+ docker pull
 
 <!-- pulling a image :
     (just like placing an order of image ,
